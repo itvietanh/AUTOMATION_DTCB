@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.3",
+    "cypress": "^14.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "scripts": {
+    "start": "cypress open"
+  }
+}
